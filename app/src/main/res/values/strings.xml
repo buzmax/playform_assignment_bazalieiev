@@ -1,0 +1,11 @@
+<resources>
+    <string name="base_url">https://jsonplaceholder.typicode.com/</string>
+
+    <string name="app_name">playform_assignment</string>
+    <string name="start">Start</string>
+    <string name="preference_file_key">default_prefs</string>
+    <string name="child_header_template">page opened: %d</string>
+    <string name="generic_error">Something wrong! Please, try later.</string>
+    <string name="title_template">Title: %s</string>
+    <string name="user_id_template">User Id: %d</string>
+</resources>
